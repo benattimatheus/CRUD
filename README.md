@@ -6,7 +6,6 @@ Projeto de CRUD (Create, Read, Update, Delete) a partir das aulas de <a href="ht
   <li>Python</li>
   <ul>
     <li> Tkinter </li>
-    <li> View </li>
   </ul>
 
   <br>
